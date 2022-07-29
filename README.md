@@ -1,5 +1,5 @@
 # Employee-Resignation-Prediction
-This case is from a data analytics competition I joined few years ago. My very first data analytics and machine learning competition! It was really fun😊
+This case is from a data analytics competition I joined few years ago. My very first data analytics and machine learning competition. It was really fun!
 
 ‼️[Data aren't real, all dummy)‼️
 
