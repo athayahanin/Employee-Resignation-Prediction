@@ -1,7 +1,7 @@
 # Employee-Resignation-Prediction
 This case is from a data analytics competition I joined few years ago. My very first data analytics and machine learning competition. It was really fun!
 
-‼️[Data are not real, all dummy)‼️
+‼️[Data are not real, all dummy]‼️
 
 “ConDrossiers” CoDros is a company in Indonesia which is engaged in data management, data integration, and database systems whose purpose is to prepare management infrastructure. In addition, CoDros also plays a role in defining the company's work system that has not been well defined so that the company's business processes can operate properly.
 
